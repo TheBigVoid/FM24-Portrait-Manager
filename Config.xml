@@ -1,0 +1,7 @@
+<record>
+    <boolean id="preload" value="false" />
+    <boolean id="amap" value="false" />
+    <list id="maps">
+        <!-- Portrait records will be automatically added here by Portrait Manager -->
+    </list>
+</record>
