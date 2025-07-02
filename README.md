@@ -1,9 +1,5 @@
 # FM24 Portrait Manager
 
-## Download
-
-👉 [Click here to download the Portrait Manager .exe]   [https://www.dropbox.com/scl/fi/o8uigxx61d96c4xw3zr4k/portrait_manager.exe?rlkey=ucisyxl9qnibxqqggb4n3nmbn&st=nkj0ogtw&dl=0]
-
 A simple custom tool to quickly manage and replace player portraits in Football Manager 2024 facepacks.
 
 ## Features
