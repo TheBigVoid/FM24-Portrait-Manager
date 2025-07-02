@@ -66,4 +66,10 @@ Click Reload Skin at the bottom of the Preferences window.
 
 Done! Your player should now have the updated portrait.
 
+📢 Version Info
+
+This is currently version 0.0.1.
+
+Future versions will add the ability to save players and change their portraits whenever you want.
+
 
